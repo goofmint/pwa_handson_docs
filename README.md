@@ -1,5 +1,3 @@
-**本資料のURL**　https://github.com/hifivemania/pwa_handson_docs
-
 ## プロジェクトベースのダウンロード
 
 ハンズオン用のプロジェクトベースは以下のURLでダウンロードできます。ダウンロードしたら解凍してください。
@@ -19,7 +17,7 @@ npm i
 ライブラリをインストールすると以下のコマンドでWebサーバが立ち上がります。
 
 ```
-npm run start
+npm run dev
 ```
 
 Webサーバは http://localhost:3000/ または http://127.0.0.1:3000/ でアクセスできます。
